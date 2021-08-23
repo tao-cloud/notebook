@@ -140,7 +140,13 @@ root@c6119f4d8eb2:/etc/nginx#
 
 ```
 
-房贷首付
+### docker安装mysql
+
+~~~she
+docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
+~~~
+
+
 
 
 

@@ -20,9 +20,12 @@
 
 - [docker](docker.md)
 
-- [ ] Redis
+
 
 ## 其他
+- [git操作](git/git.md)
+
+
 
 
 
