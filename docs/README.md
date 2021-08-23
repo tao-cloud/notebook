@@ -23,7 +23,7 @@
 
 
 ## 其他
-- [git操作](git/git.md)
+- [git操作](其他/git.md)
 
 
 
